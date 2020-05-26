@@ -5,4 +5,4 @@
 4. The highest testing accuracy achieved in this project is above 96%.
 
 
-The dataset can be downloaded [here](https://www.kaggle.com/mlg-ulb/creditcardfraud) from Kaggle
+The dataset can be downloaded [here](https://www.kaggle.com/mlg-ulb/creditcardfraud) from Kaggle.
